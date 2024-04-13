@@ -1,6 +1,6 @@
-#HospitalManagementSystem
+# Hospital Management System
 
-##Description
+## Description
 
 The "Hospital Management System" is a sophisticated Java application engineered to 
 revolutionize the management of patient, staff, and appointment data within a hospital setting. 
